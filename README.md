@@ -19,4 +19,4 @@ npm test
 npm run dev
 ```
 
-Deploy `contracts/delivery_court.py` in GenLayer Studio, then enter that contract address in the app before creating a delivery claim.
+Deploy `contracts/delivery_court.py` in GenLayer Studio, then enter that contract address in the app before creating a delivery claim. Current Studio deployment: `0xcA4F512aD1931658f5Dd839604873B205D9c1F9e`.
